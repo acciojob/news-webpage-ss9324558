@@ -2,12 +2,12 @@
 body{
 	background-color:#f5f5f5;
 }
-.header{
+header{
 	background-color:#011e29;
 	color:white;
 	height:20vh;
-	display:flex;
-	justify-content:center;
+	text-align:center;
+	padding:1px;
 }
 .parent{
 	display:flex;
